@@ -1,2 +1,1 @@
-# Procfile
-Autonomous AI-agent workflow for enterprise market, regulatory, and competitive risk intelligence.
+AI-powered assistive system for visually impaired pilgrims, combining LLMs, RAG, computer vision, offline voice processing, and edge AI.
